@@ -1,0 +1,21 @@
+.contenido {
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: #990CF0;
+}
+
+p {
+    color: white;
+}
+
+.imgLogo {
+    width: 100px;
+}
